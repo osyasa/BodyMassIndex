@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vücut Kitle İndeksi Hesaplayıcı</string>
+    <string-array name="choices">
+        <item> Vücut Kitle indeksi</item>
+        <item> Bazal Metabolizma Hızı</item>
+        <item> asd</item>
+    </string-array>
+</resources>
